@@ -78,19 +78,19 @@ Alguns paineis podem estar sem dados mas geralmente isso é por conta daquele pr
 
 ![](grafana-page-views-1.png)
 
-#### **Page Views by Status Code**: quantidade de [visualizações de todas as páginas]() por [status HTTP]()
+#### **Page Views by Status Code**: quantidade de [visualizações de todas as páginas](https://docs.linximpulse.com/docs/tagging-all) por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Product Views by Status Code**: quantidade de [visualizações da página de produto]() por [status HTTP]()
+#### **Product Views by Status Code**: quantidade de [visualizações da página de produto](https://docs.linximpulse.com/docs/tagging-product) por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Cart Views by Status Code**: quantidade de [visualizações da página de carrinho]() por [status HTTP]()
+#### **Cart Views by Status Code**: quantidade de [visualizações da página de carrinho](https://docs.linximpulse.com/docs/tagging-cart) por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Transaction Views by Status Code**: quantidade de [visualizações da página de confirmação de compra]() por [status HTTP]()
+#### **Transaction Views by Status Code**: quantidade de [visualizações da página de confirmação de compra](https://docs.linximpulse.com/docs/tagging-confirmation) por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
 ![](grafana-page-views-2.png)
 
-#### **Search Views by Status Code**: quantidade de [visualizações da página de busca]() por [status HTTP]()
+#### **Search Views by Status Code**: quantidade de [visualizações da página de busca](https://docs.linximpulse.com/docs/tagging-search) por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Search Views Distribution by Search ID**: quantidade de visualizações confirmadas (com match dos ID's) da página de busca por [status HTTP]()
+#### **Search Views Distribution by Search ID**: quantidade de visualizações confirmadas (com match dos ID's) da página de busca por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
 ### Share
 
@@ -112,9 +112,9 @@ Alguns paineis podem estar sem dados mas geralmente isso é por conta daquele pr
 
 #### **Newton Queue Lag**: atraso na fila do Newton separado por plataformas (VTEX e DCG)
 
-#### **Newton Catalog Requests by Status Code**: quantidade de requests no [servidor de Catálogo]() por [status HTTP]()
+#### **Newton Catalog Requests by Status Code**: quantidade de requests no [servidor de Catálogo]() por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Newton Platform Requests by Status Code**: quantidade de requests no [servidor do Platform]() por [status HTTP]()
+#### **Newton Platform Requests by Status Code**: quantidade de requests no [servidor do Platform]() por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
 #### **Newton Product Updates Ratio**: taxa de requests retornadas com sucesso x com erros
 
@@ -122,9 +122,9 @@ Alguns paineis podem estar sem dados mas geralmente isso é por conta daquele pr
 
 ![](grafana-push-api.png)
 
-#### **Push API Products by Status Code**: quantidade de requests do tipo *products* na Push API por [status HTTP]()
+#### **Push API Products by Status Code**: quantidade de requests do tipo *products* na Push API por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-#### **Push API Users by Status Code**: quantidade de requests do tipo *users* na Push API por [status HTTP]()
+#### **Push API Users by Status Code**: quantidade de requests do tipo *users* na Push API por [status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
 ### Webhooks
 
